@@ -171,7 +171,7 @@ Any option that is set in AutoMin's settings page can be overriden in your confi
 
  - Added support for EE globals, path variables, stylesheet tags, etc
 
-###1.2.4
+### 1.2.4
 
  - Fixed a HTML minification compatibility issue with Low Reorder
 
